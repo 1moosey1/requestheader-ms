@@ -1,0 +1,9 @@
+Request Header Parser Microservice
+
+API that parses header and returns json object containing your ip, language settings and operating system
+
+Usage:
+
+Homepage - https://aqueous-temple-70100.herokuapp.com/
+API - https://aqueous-temple-70100.herokuapp.com/whoami
+
