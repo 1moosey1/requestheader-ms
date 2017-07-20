@@ -1,0 +1,22 @@
+{
+  "name": "requestheader-ms",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1moosey1/requestheader-ms.git"
+  },
+  "author": "Juan Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1moosey1/requestheader-ms/issues"
+  },
+  "homepage": "https://github.com/1moosey1/requestheader-ms#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
